@@ -1,5 +1,8 @@
 # Diffusion_ViT
-Code will be released soon.
+
+The code is released  https://github.com/sndnyang/Diffusion_ViT
+
+This repo is just for logs and will be removed.
 
 The record on wandbai
 
